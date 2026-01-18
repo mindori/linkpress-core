@@ -3,7 +3,7 @@
 Core library for [LinkPress](https://github.com/mindori/linkpress) — the building blocks for AI-powered article processing.
 
 [![npm version](https://img.shields.io/npm/v/@linkpress/core.svg)](https://www.npmjs.com/package/@linkpress/core)
-[![license](https://img.shields.io/github/license/mindori/linkpress-core)](./LICENSE)
+[![npm license](https://img.shields.io/npm/l/@linkpress/core)](./LICENSE)
 
 ## What's Inside
 
